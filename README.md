@@ -138,3 +138,5 @@ The soil moisture level can be displayed as a percentage or visualized using a g
 
 ## Links ##
 youTube video:[https://youtu.be/bNzvVzJWgOc]
+
+Project Bank: [https://github.com/Firoz-Thapa/Plant_Monitoring_System?sub-ject=https://github.com/Firoz-Thapa/Plant_Monitoring_System]
