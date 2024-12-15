@@ -134,3 +134,7 @@ In our UI displays:
 3. Alerts for low or high moisture levels.
 
 The soil moisture level can be displayed as a percentage or visualized using a graph in the user interface. To make it intuitive, color-coded indicators are used: red for low moisture levels, green for medium levels, and blue for high levels.
+
+
+## Links ##
+youTube video:[https://youtu.be/bNzvVzJWgOc]
