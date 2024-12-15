@@ -6,7 +6,7 @@ Our project, the Plant Monitoring System, is a smart IoT solution that helps tak
 
 Let's see how this project was implemented step by step.
 
-## Benifits
+## Benefits
 1. **Real-Time Monitoring:** Alerts for dry or wet soil conditions.
 2. **Water Conservation:** Reduces overwatering or underwatering and promotes efficient use of resources.
 3. **Ease of Use:** Accessible through a user-friendly interface.
@@ -15,7 +15,7 @@ Let's see how this project was implemented step by step.
 
 
 
-## 1. Resource Alloction
+## 1. Resource Allocation
 
 ### 1.1. Resources ###
 
